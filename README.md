@@ -1,5 +1,5 @@
 ## About
-Quiz adalah game yang saya buat dengan bahasa pemrograman `Python` yang kemudian saya encrypt menjadi `.pyc` dengan tujuan untuk mengamankan source code dan tidak bisa di recode, game ini berbasis *CLI(Command Line Interface)*.
+Quiz adalah game yang saya buat dengan bahasa pemrograman `Python` yang kemudian saya encrypt menjadi `.pyc` dengan tujuan untuk mengamankan source code dan tidak bisa di recode, game ini berbasis **CLI(Command Line Interface)**.
 Game ini saya buat dengan tujuan untuk mengisi waktu bagi teman-teman semua yang sedang menjalani _self-quarantine_. Agar tidak bosan dan semoga game ini bisa membuat jengkel dan menghibur teman-teman semua.
 
 ## Installation
@@ -33,6 +33,32 @@ Game ini saya buat dengan tujuan untuk mengisi waktu bagi teman-teman semua yang
     ```
     $ python2 quiz.pyc
     ```
+* Enjoy the game
 
-### Windows and Linux
-Untuk cara penginstallan di Windows dan Linux, and bisa mengklik link berikut https://tetzusite.wordpress.com/ untuk lebih lengkapnya
+### Linux Ubuntu
+* Buka Terminal
+* Check your python version
+    ```
+    SM-Geek@SM-Geek-X441UV:~$ python --version
+    ```
+* Install git
+    ```
+    SM-Geek@SM-Geek-X441UV:~$ sudo apt-get install git-core
+    ```
+* Check your git version
+    ```
+    SM-Geek@SM-Geek-X441UV:~$ git --version
+    ```
+* Get the repositories of game
+    ```
+    SM-Geek@SM-Geek-X441UV:~$ git clone https://github.com/rizkiawaludin/Quiz
+    ```
+* Change directory to Quiz
+    ```
+    SM-Geek@SM-Geek-X441UV:~$ cd Quiz
+    ```
+* Execute the program
+    ```
+    SM-Geek@SM-Geek-X441UV:~$ python quiz.pyc
+    ```
+* Enjoy the game
