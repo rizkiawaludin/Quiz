@@ -4,7 +4,7 @@ Game ini saya buat dengan tujuan untuk mengisi waktu bagi teman-teman semua yang
 
 ## Installation
 ### Android
-* Install Termux dari Google Play di HP anda
+* Install Termux dari Play Store
 * Buka Termux
 * Kemudian masukkan perintah berikut
     ```
