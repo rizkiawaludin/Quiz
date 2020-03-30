@@ -1,5 +1,5 @@
 ## About
-Quiz adalah game yang saya buat dengan bahasa pemrograman `Python` yang kemudian saya encrypt menjadi `.pyc` dengan tujuan untuk mengamankan source code, tidak bisa di recode orang lain, dan agar kunci jawaban tidak diketahui. Game ini berbasis **CLI(Command Line Interface)**.
+Quiz adalah game yang saya buat dengan bahasa pemrograman `Python` yang kemudian saya compile menjadi `.pyc`. Game ini berbasis **CLI(Command Line Interface)**.
 Game ini saya buat dengan tujuan untuk mengisi waktu bagi teman-teman semua yang sedang menjalani _self-quarantine_. Agar tidak bosan dan semoga game ini bisa membuat jengkel dan menghibur teman-teman semua.
 
 ## Installation
