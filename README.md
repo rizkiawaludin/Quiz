@@ -59,6 +59,6 @@ Game ini saya buat dengan tujuan untuk mengisi waktu bagi teman-teman semua yang
     ```
 * Execute the program
     ```
-    SM-Geek@SM-Geek-X441UV:~$ python quiz.pyc
+    SM-Geek@SM-Geek-X441UV:~/Quiz$ python quiz.pyc
     ```
 * Enjoy the game
